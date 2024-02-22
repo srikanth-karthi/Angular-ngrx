@@ -6,18 +6,18 @@ import { Component } from '@angular/core';
   styleUrls: ['./counter.component.css']
 })
 export class CounterComponent {
-  counter:number=0;
-  OnIncrement()
-  {
-    this.counter++;
-  }
-   ondecrement()
-   {
-    this.counter--;
-   }
-   Onreset()
-   {
-    this.counter=0;
-   }
+  // counter:number=0;
+  // OnIncrement()
+  // {
+  //   this.counter++;
+  // }
+  //  ondecrement()
+  //  {
+  //   this.counter--;
+  //  }
+  //  Onreset()
+  //  {
+  //   this.counter=0;
+  //  }
 
 }
